@@ -39,8 +39,8 @@ export const transactions = [
 ];
 
 export const userProfile = {
-  name: "Ana Paula",
-  email: "anapaula@email.com",
+  name: "Renan Sanchez",
+  email: "renan@email.com",
   avatar: "AP",
   occupation: "Desenvolvedora Full Stack",
   joinDate: "2025-01-01",
